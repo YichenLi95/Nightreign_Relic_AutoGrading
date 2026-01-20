@@ -20,18 +20,18 @@
 ```txt
 C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
 ```
-注： 需打开显示隐藏项目， 存档文件尾缀一定是.sl2， 如果使用过seamless coop存档文件会有.co2文件，无视他。
-2. 打开`Elden_Ring_Save_Editor.exe`，将存档文件导入。读取完成后点选角色名字，左上角切换至relics页面，此处展示你存档下所有遗物。（如果是英文的，放大窗口后有language选项，可以切换成中文）导出遗物excel。
-3. 以管理员运行`JsonCreation.bat`。（运行完关了就行）完成后会创建文件夹`relic_scores_out`
-4. 打开`relic_score_multi.exe`, 在excel栏导入由save editor导出的遗物excel；在分数json文件夹栏，选择刚刚自动创建的`relic_scores_out`。
+注： 需打开显示隐藏项目， 存档文件尾缀一定是.sl2， 如果使用过seamless coop存档文件会有.co2文件，无视他。  
+2. 打开`Elden_Ring_Save_Editor.exe`，将存档文件导入。读取完成后点选角色名字，左上角切换至relics页面，此处展示你存档下所有遗物。（如果是英文的，放大窗口后有language选项，可以切换成中文）导出遗物excel。  
+3. 以管理员运行`JsonCreation.bat`。（运行完关了就行）完成后会创建文件夹`relic_scores_out`  
+4. 打开`relic_score_multi.exe`, 在excel栏导入由save editor导出的遗物excel；在分数json文件夹栏，选择刚刚自动创建的`relic_scores_out`。  
 5. 点击加载并显示，即可展示所有遗物的评分。
 
 ### 删除遗物
-1. 在评分其中删除完遗物后，导出删除后的遗物数据
-2. 通过save editor，导入修改后的遗物数据，生成新的.sl2存档文件
-3. 替换原先的.sl2文件。
-⚠️⚠️⚠️ 任何对存档的操作都应该提前对存档做备份！！！
-⚠️⚠️⚠️ 任何对存档的操作都应该提前对存档做备份！！！
+1. 在评分其中删除完遗物后，导出删除后的遗物数据  
+2. 通过save editor，导入修改后的遗物数据，生成新的.sl2存档文件  
+3. 替换原先的.sl2文件。  
+⚠️⚠️⚠️ 任何对存档的操作都应该提前对存档做备份！！！  
+⚠️⚠️⚠️ 任何对存档的操作都应该提前对存档做备份！！！  
 ⚠️⚠️⚠️ 任何对存档的操作都应该提前对存档做备份！！！
 
 ---
@@ -66,4 +66,7 @@ C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
 
 ## 👥 Contributors
 
-## license
+
+---
+
+## 📝 License
