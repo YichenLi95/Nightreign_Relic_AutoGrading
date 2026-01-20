@@ -7,9 +7,9 @@ __pycache__/
 editor_config.json
 dist/
 
-relic_out/*
-!relic_out/光环镰刀女爵.json
-!relic_out/兽爪小蜗.json
+relic_scores_out/*
+!relic_scores_out/光环镰刀女爵.json
+!relic_scores_out/兽爪小蜗.json
 
 *.exe
 JsonCreation.bat
