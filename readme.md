@@ -31,7 +31,7 @@ C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
 5. 点击加载并显示，即可展示所有遗物的评分。
 
 ### 删除遗物
-1. 在评分其中删除完遗物后，导出删除后的遗物数据  
+1. 在评分器中删除完遗物后，导出删除后的遗物数据  
   
 2. 通过save editor，导入修改后的遗物数据，生成新的.sl2存档文件  
   
@@ -85,4 +85,5 @@ C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
 
 
 ## 📝 License
+
 
