@@ -20,7 +20,7 @@
 ```txt
 C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
 ```
-注： 需打开显示隐藏项目， 存档文件尾缀一定是.sl2， 如果使用过seamless coop存档文件会有.co2文件，无视他。  
+  （注： 需打开显示隐藏项目， 存档文件尾缀一定是.sl2， 如果使用过seamless coop存档文件会有.co2文件，无视他。）  
   
 2. 打开`Elden_Ring_Save_Editor.exe`，将存档文件导入。读取完成后点选角色名字，左上角切换至relics页面，此处展示你存档下所有遗物。（如果是英文的，放大窗口后有language选项，可以切换成中文）导出遗物excel。  
   
@@ -81,5 +81,6 @@ C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
 
 
 ---
+
 
 ## 📝 License
