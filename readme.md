@@ -76,6 +76,7 @@ C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
   
 - 遗物批量删除功能用于给大佬庞大的遗物库瘦身，请谨慎使用，替换存档前切记备份存档
 
+---
 
 ## 👥 Contributors
 
@@ -84,3 +85,4 @@ C:\Users\%YourUsername%\AppData\Roaming\Nightreign\<User-ID>\NR0000.sl2
 
 
 ## 📝 License
+
